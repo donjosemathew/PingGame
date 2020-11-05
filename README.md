@@ -3,6 +3,6 @@
 
 
 <br><br>
-Try PingGame https://dontech09.github.io/GuessMyNumber/
+Try PingGame https://dontech09.github.io/PingGame/
 <br><br>
 ![](Capture.PNG)
